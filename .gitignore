@@ -1,0 +1,16 @@
+dist/
+.bob/
+.cache
+node_modules/
+pnpm-error.log
+build/
+.env
+private-key.pem
+.DS_Store
+website/**/pnpm-lock
+website/**/package-lock.json
+.now
+.vercel
+.idea/
+.next/
+.eslintcache
